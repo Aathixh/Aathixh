@@ -39,7 +39,7 @@
 ###
 <h3 align="left">Contact me:</h3>
 <div align="left">
-  <a href="www.linkedin.com/in/aathishrviswam"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/aathishrviswam"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
     <img width="12" />
   <a href="https://wa.me/918129183741"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="30" alt="whatsapp logo"  />
     <img width="12" />
