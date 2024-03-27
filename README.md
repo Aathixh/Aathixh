@@ -41,8 +41,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/aathishrviswam"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="30" alt="linkedin logo"  />
     <img width="12" />
-  <a href="https://wa.me/918129183741"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="30" height="30" alt="whatsapp logo"  />
-    <img width="12" />
   <a href="https://www.instagram.com/aathixh?igsh=MXIyMzhybmV6Z3VpMA=="><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"  />
     <img width="12" />
   <a href="https://x.com/aathixh?t=5iRUeeQZfefH2vaVFsdKzw&s=09"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="30" height="30" alt="twitter logo"  />
